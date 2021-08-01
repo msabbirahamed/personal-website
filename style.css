@@ -1,0 +1,39 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    font-size: 700;
+    margin: 0;
+}
+h1{
+    color: darkorange;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: darkolivegreen;
+}
+section{
+    height: 600px;
+}
+.top-banner{
+    border: 1px solid darkred;
+    background-image: url("header-bg.png");
+    background-repeat: none;
+    
+}
+
+.first-weidth{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+}
+.first-weidth img{
+    width: 100%;
+    
+}
+.second-banner{
+    background-image: url("biography-bg.png");
+    background-repeat: none;
+
+}
